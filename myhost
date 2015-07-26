@@ -1,0 +1,101 @@
+127.0.0.1  localhost
+::1  localhost
+
+#phone schedule
+127.0.0.1	ticks2.bugsense.com
+
+#mitbbs reader
+127.0.0.1	api.chenio.com
+
+#root explorer
+127.0.0.1	www.speedsoftware.eclipse.co.uk
+
+#betterbatterystats
+127.0.0.1 asksven.github.com
+127.0.0.1 asksven.github.io
+
+127.0.0.1 ssl.google-analytics.com
+
+#flipboard
+#23.23.170.48 beacon.flipboard.com
+#23.23.246.161 fbprod.flipboard.com
+127.0.0.1 ad.flipboard.com
+
+#bsplayer
+127.0.0.1 www.bsplayer.com
+
+#trickster mod
+127.0.0.1 timos.me
+
+#settings(CM11)
+127.0.0.1 settings.crashlytics.com
+
+#zaker
+127.0.0.1 ggs.myzaker.com
+127.0.0.1 stat.myzaker.com
+127.0.0.1 c.myzaker.com
+127.0.0.1 sns.myzaker.com
+
+
+#2605:f700:40:c00::1e5a:419a vps6.huwh.mooo.com
+#2001:da8:201:1718:fdb6:dd1e:486a:77dc t420s.huwh.mooo.com
+
+
+#Gmail/Contacts sync
+#173.194.203.118 android.clients.google.com
+#Hangouts
+#173.194.203.118 plus.google.com
+#Google Play
+#173.194.203.118 market.android.com
+#Google Search
+#173.194.203.118 www.google.com
+#173.194.203.118 www.google.com.hk
+#173.194.203.118 id.google.com
+#173.194.203.118 tools.google.com
+#173.194.203.118 inputtools.google.com
+#173.194.203.118 clients1.google.com
+#173.194.203.118 clients2.google.com
+#173.194.203.118 clients3.google.com
+#173.194.203.118 clients4.google.com
+#173.194.203.118 clients5.google.com
+#173.194.203.118 clients6.google.com
+
+#173.194.203.118 ssl.gstatic.com
+#173.194.203.118 accounts.gstatic.com
+#173.194.203.118 encrypted-tbn0.gstatic.com
+#173.194.203.118 encrypted-tbn1.gstatic.com
+#173.194.203.118 encrypted-tbn2.gstatic.com
+#173.194.203.118 encrypted-tbn3.gstatic.com
+
+#64.233.162.84 accounts.google.com
+#64.233.164.115 checkout.google.com
+
+#Calendar/Keep sync x.x.x.95
+#74.125.25.201 www.googleapis.com
+#74.125.25.201 play.googleapis.com
+#74.125.25.201 android.googleapis.com
+
+#GCM heartbeat x.x.x.188
+#167.160.166.23 mtalk.google.com
+
+#Gmail/Google Play pictures
+#173.194.202.132 ci1.googleusercontent.com
+#173.194.202.132 ci2.googleusercontent.com
+#173.194.202.132 ci3.googleusercontent.com
+#173.194.202.132 ci4.googleusercontent.com
+#173.194.202.132 ci5.googleusercontent.com
+#173.194.202.132 ci6.googleusercontent.com
+#173.194.202.132 lh0.googleusercontent.com
+#173.194.202.132 lh1.googleusercontent.com
+#173.194.202.132 lh2.googleusercontent.com
+#173.194.202.132 lh3.googleusercontent.com
+#173.194.202.132 lh4.googleusercontent.com
+#173.194.202.132 lh5.googleusercontent.com
+#173.194.202.132 lh6.googleusercontent.com
+#173.194.202.132 lh0.ggpht.com
+#173.194.202.132 lh1.ggpht.com
+#173.194.202.132 lh2.ggpht.com
+#173.194.202.132 lh3.ggpht.com
+#173.194.202.132 lh4.ggpht.com
+#173.194.202.132 lh5.ggpht.com
+#173.194.202.132 lh6.ggpht.com
