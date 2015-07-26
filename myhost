@@ -42,30 +42,30 @@
 
 
 #Gmail/Contacts sync
-#173.194.203.118 android.clients.google.com
+74.125.20.125 android.clients.google.com
 #Hangouts
-#173.194.203.118 plus.google.com
+74.125.20.125 plus.google.com
 #Google Play
-#173.194.203.118 market.android.com
+74.125.20.125 market.android.com
 #Google Search
-#173.194.203.118 www.google.com
-#173.194.203.118 www.google.com.hk
-#173.194.203.118 id.google.com
-#173.194.203.118 tools.google.com
-#173.194.203.118 inputtools.google.com
-#173.194.203.118 clients1.google.com
-#173.194.203.118 clients2.google.com
-#173.194.203.118 clients3.google.com
-#173.194.203.118 clients4.google.com
-#173.194.203.118 clients5.google.com
-#173.194.203.118 clients6.google.com
+74.125.20.125 www.google.com
+74.125.20.125 www.google.com.hk
+74.125.20.125 id.google.com
+74.125.20.125 tools.google.com
+74.125.20.125 inputtools.google.com
+74.125.20.125 clients1.google.com
+74.125.20.125 clients2.google.com
+74.125.20.125 clients3.google.com
+74.125.20.125 clients4.google.com
+74.125.20.125 clients5.google.com
+74.125.20.125 clients6.google.com
 
-#173.194.203.118 ssl.gstatic.com
-#173.194.203.118 accounts.gstatic.com
-#173.194.203.118 encrypted-tbn0.gstatic.com
-#173.194.203.118 encrypted-tbn1.gstatic.com
-#173.194.203.118 encrypted-tbn2.gstatic.com
-#173.194.203.118 encrypted-tbn3.gstatic.com
+74.125.20.125 ssl.gstatic.com
+74.125.20.125 accounts.gstatic.com
+74.125.20.125 encrypted-tbn0.gstatic.com
+74.125.20.125 encrypted-tbn1.gstatic.com
+74.125.20.125 encrypted-tbn2.gstatic.com
+74.125.20.125 encrypted-tbn3.gstatic.com
 
 64.233.162.84 accounts.google.com
 
