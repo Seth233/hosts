@@ -1,8 +1,7 @@
 127.0.0.1  localhost
 ::1  localhost
 
-#www.v2ex.com server
-61.55.189.227 connectivitycheck.android.com
+203.208.48.146 g.cn
 
 #phone schedule
 127.0.0.1	ticks2.bugsense.com
