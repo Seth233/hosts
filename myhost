@@ -1,7 +1,7 @@
 127.0.0.1  localhost
 ::1  localhost
 
-203.208.48.146 g.cn
+#203.208.48.146 g.cn
 
 #phone schedule
 127.0.0.1	ticks2.bugsense.com
