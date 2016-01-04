@@ -16,8 +16,6 @@
 127.0.0.1 asksven.github.com
 127.0.0.1 asksven.github.io
 
-127.0.0.1 ssl.google-analytics.com
-
 #flipboard
 #23.23.170.48 beacon.flipboard.com
 #23.23.246.161 fbprod.flipboard.com
@@ -37,66 +35,3 @@
 127.0.0.1 stat.myzaker.com
 127.0.0.1 c.myzaker.com
 127.0.0.1 sns.myzaker.com
-
-
-#Gmail/Contacts sync
-74.125.20.125 android.clients.google.com
-#Hangouts
-74.125.20.125 plus.google.com
-#Google Play
-74.125.20.125 market.android.com
-#Google Search
-64.233.160.90 www.google.com
-74.125.20.125 id.google.com
-74.125.20.125 tools.google.com
-74.125.20.125 inputtools.google.com
-74.125.20.125 clients1.google.com
-74.125.20.125 clients2.google.com
-74.125.20.125 clients3.google.com
-74.125.20.125 clients4.google.com
-74.125.20.125 clients5.google.com
-74.125.20.125 clients6.google.com
-
-74.125.20.125 mail.google.com
-
-74.125.20.125 ssl.gstatic.com
-74.125.20.125 accounts.gstatic.com
-74.125.20.125 encrypted-tbn0.gstatic.com
-74.125.20.125 encrypted-tbn1.gstatic.com
-74.125.20.125 encrypted-tbn2.gstatic.com
-74.125.20.125 encrypted-tbn3.gstatic.com
-
-64.233.162.84 accounts.google.com
-
-#64.233.164.115 
-216.239.38.125 checkout.google.com
-
-#Calendar/Keep sync x.x.x.95
-173.194.69.95 www.googleapis.com
-173.194.69.95 play.googleapis.com
-173.194.69.95 android.googleapis.com
-
-#GCM heartbeat x.x.x.188
-64.233.188.188 mtalk.google.com
-
-#Gmail/Google Play pictures
-173.194.69.132 ci1.googleusercontent.com
-173.194.69.132 ci2.googleusercontent.com
-173.194.69.132 ci3.googleusercontent.com
-173.194.69.132 ci4.googleusercontent.com
-173.194.69.132 ci5.googleusercontent.com
-173.194.69.132 ci6.googleusercontent.com
-173.194.69.132 lh0.googleusercontent.com
-173.194.69.132 lh1.googleusercontent.com
-173.194.69.132 lh2.googleusercontent.com
-173.194.69.132 lh3.googleusercontent.com
-173.194.69.132 lh4.googleusercontent.com
-173.194.69.132 lh5.googleusercontent.com
-173.194.69.132 lh6.googleusercontent.com
-173.194.69.132 lh0.ggpht.com
-173.194.69.132 lh1.ggpht.com
-173.194.69.132 lh2.ggpht.com
-173.194.69.132 lh3.ggpht.com
-173.194.69.132 lh4.ggpht.com
-173.194.69.132 lh5.ggpht.com
-173.194.69.132 lh6.ggpht.com
