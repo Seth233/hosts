@@ -57,6 +57,8 @@
 74.125.20.125 clients5.google.com
 74.125.20.125 clients6.google.com
 
+74.125.20.125 mail.google.com
+
 74.125.20.125 ssl.gstatic.com
 74.125.20.125 accounts.gstatic.com
 74.125.20.125 encrypted-tbn0.gstatic.com
