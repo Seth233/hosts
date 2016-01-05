@@ -35,6 +35,7 @@
 # Calendar/Keep sync x.x.x.95
 173.194.69.95 www.googleapis.com
 173.194.69.95 play.googleapis.com
+173.194.69.95 ajax.googleapis.com
 173.194.69.95 android.googleapis.com
 
 # GCM heartbeat x.x.x.188
