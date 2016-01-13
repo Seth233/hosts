@@ -35,3 +35,12 @@
 127.0.0.1 stat.myzaker.com
 127.0.0.1 c.myzaker.com
 127.0.0.1 sns.myzaker.com
+
+#大众点评analytics
+127.0.0.1 t.dp.myapp.com
+127.0.0.1 t.dstrategy.myapp.com
+
+127.0.0.1 data.axonix.com
+127.0.0.1 ads.axonix.com
+127.0.0.1 vc.mobclix.com
+
