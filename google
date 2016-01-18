@@ -1,5 +1,6 @@
 # gmail/contacts sync
 173.194.79.125 android.clients.google.com
+173.194.79.125 android.l.google.com
 # hangouts
 173.194.79.125 plus.google.com
 # google Play
@@ -17,6 +18,7 @@
 # gstatic.com
 173.194.79.125 www.gstatic.com
 173.194.79.125 ssl.gstatic.com
+173.194.79.125 csi.gstatic.com
 173.194.79.125 accounts.gstatic.com
 173.194.79.125 encrypted-tbn0.gstatic.com
 173.194.79.125 encrypted-tbn1.gstatic.com
