@@ -1,29 +1,29 @@
 # gmail/contacts sync
-173.194.79.125 android.clients.google.com
-173.194.79.125 android.l.google.com
+216.239.38.125 android.clients.google.com
+216.239.38.125 android.l.google.com
 # hangouts
-173.194.79.125 plus.google.com
+216.239.38.125 plus.google.com
 # google Play
-173.194.79.125 market.android.com
+216.239.38.125 market.android.com
 # google.com
-173.194.79.125 id.google.com
-173.194.79.125 tools.google.com
-173.194.79.125 inputtools.google.com
-173.194.79.125 clients1.google.com
-173.194.79.125 clients2.google.com
-173.194.79.125 clients3.google.com
-173.194.79.125 clients4.google.com
-173.194.79.125 clients5.google.com
-173.194.79.125 clients6.google.com
+216.239.38.125 id.google.com
+216.239.38.125 tools.google.com
+216.239.38.125 inputtools.google.com
+216.239.38.125 clients1.google.com
+216.239.38.125 clients2.google.com
+216.239.38.125 clients3.google.com
+216.239.38.125 clients4.google.com
+216.239.38.125 clients5.google.com
+216.239.38.125 clients6.google.com
 # gstatic.com
-173.194.79.125 www.gstatic.com
-173.194.79.125 ssl.gstatic.com
-173.194.79.125 csi.gstatic.com
-173.194.79.125 accounts.gstatic.com
-173.194.79.125 encrypted-tbn0.gstatic.com
-173.194.79.125 encrypted-tbn1.gstatic.com
-173.194.79.125 encrypted-tbn2.gstatic.com
-173.194.79.125 encrypted-tbn3.gstatic.com
+216.239.38.125 www.gstatic.com
+216.239.38.125 ssl.gstatic.com
+216.239.38.125 csi.gstatic.com
+216.239.38.125 accounts.gstatic.com
+216.239.38.125 encrypted-tbn0.gstatic.com
+216.239.38.125 encrypted-tbn1.gstatic.com
+216.239.38.125 encrypted-tbn2.gstatic.com
+216.239.38.125 encrypted-tbn3.gstatic.com
 
 
 64.233.160.90 www.google.com
@@ -64,4 +64,3 @@
 173.194.69.132 lh4.ggpht.com
 173.194.69.132 lh5.ggpht.com
 173.194.69.132 lh6.ggpht.com
-
