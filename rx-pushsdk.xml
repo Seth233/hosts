@@ -57,6 +57,7 @@
   <prescription type="service" class="com.baidu.android.pushservice.PushService" sender="any" />  
   <prescription type="service" class="com.baidu.android.pushservice.CommandService" sender="any" />  
   <prescription type="service" class="com.baidu.sapi2.share.ShareService" sender="any" />
+  <prescription type="service" class="com.baidu.sofire.MyService" sender="any" />
 
   <prescription type="service" class="com.dianping.base.push.pushservice.dp.FakeService" sender="any" />  
   <prescription type="service" class="com.dianping.base.push.pushservice.dp.DPPushService" sender="any" />  
