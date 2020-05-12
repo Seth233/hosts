@@ -63,3 +63,10 @@
 #qqlive p2p
 127.0.0.1 mdevstat.qqlive.qq.com
 127.0.0.1 bkmdevstat.qqlive.qq.com
+
+#netease music
+127.0.0.1 admusicpic.music.126.net
+127.0.0.1 iadmat.nosdn.127.net
+127.0.0.1 iadmusicmat.music.126.net
+127.0.0.1 iadmusicmatvideo.music.126.net
+
